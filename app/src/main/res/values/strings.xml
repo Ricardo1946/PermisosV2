@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="tvCamera"> Permiso de Camara</string>
+    <string name="tvBiometric"> Permiso de huella dactilar</string>
+    <string name="tvLocation"> Permiso de localizacion</string>
+    <string name="tvAlmacenamientoInterno"> Permiso de almacenamiento Interno</string>
+    <string name="tvInternet"> Permiso de acceso a internet</string>
+    <string name="btnCheck">Verificar Permisos</string>
+    <string name="btnRequest">Solicitar Permisos</string>
+</resources>
